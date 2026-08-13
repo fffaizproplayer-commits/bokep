@@ -1,0 +1,1 @@
+module.exports = {  noBot: '6285735923944',     // Ganti dengan nomor WhatsApp botmu  noOwner: '6285647285154',   // Ganti dengan nomor WhatsApp pribadimu  prefix: '.',  delay: 1500,               // Jeda 1.5 detik agar tidak kena blokir  maxSpam: 30                // Batas spam default};
